@@ -1,17 +1,37 @@
 [
   {
-    "imageCategory": "jutrznia",
-    "firstText": "7:30",
-    "secondText": "Jutrznia + śniadanko"
+    "imageCategory": "forum_liderow",
+    "firstText": "9:00",
+    "secondText": "Rozdawanie śniadania na Forum Liderów"
+  },
+  {
+    "imageCategory": "obiad",
+    "firstText": "14:30",
+    "secondText": "Obiad"
+  },
+  {
+    "imageCategory": "msza",
+    "firstText": "16:00",
+    "secondText": "Msza św. Akademicka"
+  },
+  {
+    "imageCategory": "muzyczna",
+    "firstText": "18:20",
+    "secondText": "Próba Muzycznej"
   },
   {
     "imageCategory": "adoracja",
-    "firstText": "19:00",
-    "secondText": "Adoracja Najśw. Sakramentu"
+    "firstText": "19:30",
+    "secondText": "Adoracja"
   },
   {
-    "imageCategory": "adoracja",
-    "firstText": "15:00",
-    "secondText": "Koronka do B. Miłosierdzia"
+    "imageCategory": "msza",
+    "firstText": "20:00",
+    "secondText": "Msza św. Akademicka"
+  },
+  {
+    "imageCategory": "da",
+    "firstText": "po mszy",
+    "secondText": "Na górę!"
   }
 ]
