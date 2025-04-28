@@ -1,1 +1,17 @@
-
+[
+  {
+    "imageCategory": "alpha",
+    "firstText": "KURS ALPHA",
+    "secondText": "czwartki godz. 19"
+  },
+  {
+    "imageCategory": "siatka",
+    "firstText": "SIATKÓWKA",
+    "secondText": "poniedziałki po mszy"
+  },
+  {
+    "imageCategory": "impreza",
+    "firstText": "IMPREZY",
+    "secondText": "około raz na miesiąc"
+  }
+]
