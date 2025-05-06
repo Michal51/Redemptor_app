@@ -1,37 +1,261 @@
-[
-  {
-    "imageCategory": "jutrznia",
-    "firstText": "9:00",
-    "secondText": "Rozdawanie śniadania na Forum Liderów"
-  },
-  {
-    "imageCategory": "obiad",
-    "firstText": "14:30",
-    "secondText": "Obiad"
-  },
-  {
-    "imageCategory": "msza",
-    "firstText": "16:00",
-    "secondText": "Msza św. Akademicka"
-  },
-  {
-    "imageCategory": "muzyczna",
-    "firstText": "18:20",
-    "secondText": "Próba Muzycznej"
-  },
-  {
-    "imageCategory": "adoracja",
-    "firstText": "19:30",
-    "secondText": "Adoracja"
-  },
-  {
-    "imageCategory": "msza",
-    "firstText": "20:00",
-    "secondText": "Msza św. Akademicka"
-  },
-  {
-    "imageCategory": "da",
-    "firstText": "po mszy",
-    "secondText": "Na górę!"
-  }
-]
+{
+  "Poniedziałek": [
+    {
+      "imageCategory": "jutrznia",
+      "firstText": "9:00",
+      "secondText": "Rozdawanie śniadania na Forum Liderów"
+    },
+    {
+      "imageCategory": "obiad",
+      "firstText": "14:30",
+      "secondText": "Obiad"
+    },
+    {
+      "imageCategory": "msza",
+      "firstText": "16:00",
+      "secondText": "Msza św. Akademicka"
+    },
+    {
+      "imageCategory": "muzyczna",
+      "firstText": "18:20",
+      "secondText": "Próba Muzycznej"
+    },
+    {
+      "imageCategory": "adoracja",
+      "firstText": "19:30",
+      "secondText": "Adoracja"
+    },
+    {
+      "imageCategory": "msza",
+      "firstText": "20:00",
+      "secondText": "Msza św. Akademicka"
+    },
+    {
+      "imageCategory": "da",
+      "firstText": "po mszy",
+      "secondText": "Na górę!"
+    }
+  ],
+  "Wtorek": [
+    {
+      "imageCategory": "jutrznia",
+      "firstText": "9:00",
+      "secondText": "Rozdawanie śniadania na Forum Liderów"
+    },
+    {
+      "imageCategory": "obiad",
+      "firstText": "14:30",
+      "secondText": "Obiad"
+    },
+    {
+      "imageCategory": "msza",
+      "firstText": "16:00",
+      "secondText": "Msza św. Akademicka"
+    },
+    {
+      "imageCategory": "muzyczna",
+      "firstText": "18:20",
+      "secondText": "Próba Muzycznej"
+    },
+    {
+      "imageCategory": "adoracja",
+      "firstText": "19:30",
+      "secondText": "Adoracja"
+    },
+    {
+      "imageCategory": "msza",
+      "firstText": "20:00",
+      "secondText": "Msza św. Akademicka"
+    },
+    {
+      "imageCategory": "da",
+      "firstText": "po mszy",
+      "secondText": "Na górę!"
+    }
+  ],
+  "Środa": [
+    {
+      "imageCategory": "jutrznia",
+      "firstText": "9:00",
+      "secondText": "Rozdawanie śniadania na Forum Liderów"
+    },
+    {
+      "imageCategory": "obiad",
+      "firstText": "14:30",
+      "secondText": "Obiad"
+    },
+    {
+      "imageCategory": "msza",
+      "firstText": "16:00",
+      "secondText": "Msza św. Akademicka"
+    },
+    {
+      "imageCategory": "muzyczna",
+      "firstText": "18:20",
+      "secondText": "Próba Muzycznej"
+    },
+    {
+      "imageCategory": "adoracja",
+      "firstText": "19:30",
+      "secondText": "Adoracja"
+    },
+    {
+      "imageCategory": "msza",
+      "firstText": "20:00",
+      "secondText": "Msza św. Akademicka"
+    },
+    {
+      "imageCategory": "da",
+      "firstText": "po mszy",
+      "secondText": "Na górę!"
+    }
+  ],
+  "Czwartek": [
+    {
+      "imageCategory": "jutrznia",
+      "firstText": "9:00",
+      "secondText": "Rozdawanie śniadania na Forum Liderów"
+    },
+    {
+      "imageCategory": "obiad",
+      "firstText": "14:30",
+      "secondText": "Obiad"
+    },
+    {
+      "imageCategory": "msza",
+      "firstText": "16:00",
+      "secondText": "Msza św. Akademicka"
+    },
+    {
+      "imageCategory": "muzyczna",
+      "firstText": "18:20",
+      "secondText": "Próba Muzycznej"
+    },
+    {
+      "imageCategory": "adoracja",
+      "firstText": "19:30",
+      "secondText": "Adoracja"
+    },
+    {
+      "imageCategory": "msza",
+      "firstText": "20:00",
+      "secondText": "Msza św. Akademicka"
+    },
+    {
+      "imageCategory": "da",
+      "firstText": "po mszy",
+      "secondText": "Na górę!"
+    }
+  ],
+  "Piątek": [
+    {
+      "imageCategory": "jutrznia",
+      "firstText": "9:00",
+      "secondText": "Rozdawanie śniadania na Forum Liderów"
+    },
+    {
+      "imageCategory": "obiad",
+      "firstText": "14:30",
+      "secondText": "Obiad"
+    },
+    {
+      "imageCategory": "msza",
+      "firstText": "16:00",
+      "secondText": "Msza św. Akademicka"
+    },
+    {
+      "imageCategory": "muzyczna",
+      "firstText": "18:20",
+      "secondText": "Próba Muzycznej"
+    },
+    {
+      "imageCategory": "adoracja",
+      "firstText": "19:30",
+      "secondText": "Adoracja"
+    },
+    {
+      "imageCategory": "msza",
+      "firstText": "20:00",
+      "secondText": "Msza św. Akademicka"
+    },
+    {
+      "imageCategory": "da",
+      "firstText": "po mszy",
+      "secondText": "Na górę!"
+    }
+  ],
+  "Sobota": [
+    {
+      "imageCategory": "jutrznia",
+      "firstText": "9:00",
+      "secondText": "Rozdawanie śniadania na Forum Liderów"
+    },
+    {
+      "imageCategory": "obiad",
+      "firstText": "14:30",
+      "secondText": "Obiad"
+    },
+    {
+      "imageCategory": "msza",
+      "firstText": "16:00",
+      "secondText": "Msza św. Akademicka"
+    },
+    {
+      "imageCategory": "muzyczna",
+      "firstText": "18:20",
+      "secondText": "Próba Muzycznej"
+    },
+    {
+      "imageCategory": "adoracja",
+      "firstText": "19:30",
+      "secondText": "Adoracja"
+    },
+    {
+      "imageCategory": "msza",
+      "firstText": "20:00",
+      "secondText": "Msza św. Akademicka"
+    },
+    {
+      "imageCategory": "da",
+      "firstText": "po mszy",
+      "secondText": "Na górę!"
+    }
+  ],
+  "Niedziela": [
+    {
+      "imageCategory": "jutrznia",
+      "firstText": "9:00",
+      "secondText": "Rozdawanie śniadania na Forum Liderów"
+    },
+    {
+      "imageCategory": "obiad",
+      "firstText": "14:30",
+      "secondText": "Obiad"
+    },
+    {
+      "imageCategory": "msza",
+      "firstText": "16:00",
+      "secondText": "Msza św. Akademicka"
+    },
+    {
+      "imageCategory": "muzyczna",
+      "firstText": "18:20",
+      "secondText": "Próba Muzycznej"
+    },
+    {
+      "imageCategory": "adoracja",
+      "firstText": "19:30",
+      "secondText": "Adoracja"
+    },
+    {
+      "imageCategory": "msza",
+      "firstText": "20:00",
+      "secondText": "Msza św. Akademicka"
+    },
+    {
+      "imageCategory": "da",
+      "firstText": "po mszy",
+      "secondText": "Na górę!"
+    }
+  ]
+}
