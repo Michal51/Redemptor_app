@@ -1,5 +1,5 @@
 {
-  "Poniedziałek": [
+  "Poniedzialek": [
     {
       "imageCategory": "jutrznia",
       "firstText": "9:00",
@@ -73,7 +73,7 @@
       "secondText": "Na górę!"
     }
   ],
-  "Środa": [
+  "Sroda": [
     {
       "imageCategory": "jutrznia",
       "firstText": "9:00",
@@ -147,7 +147,7 @@
       "secondText": "Na górę!"
     }
   ],
-  "Piątek": [
+  "Piatek": [
     {
       "imageCategory": "jutrznia",
       "firstText": "9:00",
