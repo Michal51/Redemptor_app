@@ -112,39 +112,19 @@
   ],
   "Czwartek": [
     {
-      "imageCategory": "jutrznia",
+      "imageCategory": "obiad",
       "firstText": "9:00",
-      "secondText": "CZW-Rozdawanie śniadania na Forum Liderów"
+      "secondText": "Ranny obiad"
     },
     {
       "imageCategory": "obiad",
       "firstText": "14:30",
-      "secondText": "Obiad"
+      "secondText": "Obiad popołudniowy"
     },
     {
       "imageCategory": "msza",
       "firstText": "16:00",
-      "secondText": "Msza św. Akademicka"
-    },
-    {
-      "imageCategory": "muzyczna",
-      "firstText": "18:20",
-      "secondText": "Próba Muzycznej"
-    },
-    {
-      "imageCategory": "adoracja",
-      "firstText": "19:30",
-      "secondText": "Adoracja"
-    },
-    {
-      "imageCategory": "msza",
-      "firstText": "20:00",
-      "secondText": "Msza św. Akademicka"
-    },
-    {
-      "imageCategory": "da",
-      "firstText": "po mszy",
-      "secondText": "Na górę!"
+      "secondText": "die Messe"
     }
   ],
   "Piatek": [
