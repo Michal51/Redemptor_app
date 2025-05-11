@@ -67,100 +67,60 @@
   ],
   "Czwartek": [
     {
-      "imageCategory": "obiad",
-      "firstText": "9:00",
-      "secondText": "Ranny obiad"
+      "imageCategory": "jutrznia",
+      "firstText": "7:30",
+      "secondText": "Jutrznia + śniadanko"
     },
     {
-      "imageCategory": "obiad",
-      "firstText": "14:30",
-      "secondText": "Obiad popołudniowy"
+      "imageCategory": "da",
+      "firstText": "19:00",
+      "secondText": "Kurs Alpha"
+    },
+    {
+      "imageCategory": "adoracja",
+      "firstText": "19:00",
+      "secondText": "Adoracja Najśw. Sakramentu"
     },
     {
       "imageCategory": "msza",
-      "firstText": "16:00",
-      "secondText": "die Messe"
+      "firstText": "19:30",
+      "secondText": "Msza Św. Akademicka"
     }
   ],
   "Piatek": [
     {
       "imageCategory": "jutrznia",
-      "firstText": "19:00",
-      "secondText": "Teatr Polski"
-    },
-    {
-      "imageCategory": "obiad",
-      "firstText": "21:15",
-      "secondText": "Siedzenie se u Oli"
-    },
-    {
-      "imageCategory": "msza",
-      "firstText": "16:00",
-      "secondText": "Msza św. Akademicka"
-    },
-    {
-      "imageCategory": "muzyczna",
-      "firstText": "18:20",
-      "secondText": "Próba Muzycznej"
+      "firstText": "7:30",
+      "secondText": "Jutrznia + śniadanko"
     },
     {
       "imageCategory": "adoracja",
-      "firstText": "19:30",
-      "secondText": "Adoracja"
+      "firstText": "19:00",
+      "secondText": "Adoracja Najśw. Sakramentu"
     },
     {
       "imageCategory": "msza",
-      "firstText": "20:00",
-      "secondText": "Msza św. Akademicka"
+      "firstText": "19:30",
+      "secondText": "Msza Św. Akademicka"
     },
     {
       "imageCategory": "da",
       "firstText": "po mszy",
-      "secondText": "Na górę!"
+      "secondText": "DKF - Dyskusyjny Klub Filmowy"
     }
   ],
   "Sobota": [
     {
-      "imageCategory": "jutrznia",
-      "firstText": "9:00",
-      "secondText": "SOB-Rozdawanie śniadania na Forum Liderów"
-    },
-    {
-      "imageCategory": "obiad",
-      "firstText": "14:30",
-      "secondText": "Obiad"
-    },
-    {
-      "imageCategory": "msza",
-      "firstText": "16:00",
-      "secondText": "Msza św. Akademicka"
-    },
-    {
-      "imageCategory": "muzyczna",
-      "firstText": "18:20",
-      "secondText": "Próba Muzycznej"
-    },
-    {
-      "imageCategory": "adoracja",
-      "firstText": "19:30",
-      "secondText": "Adoracja"
-    },
-    {
-      "imageCategory": "msza",
-      "firstText": "20:00",
-      "secondText": "Msza św. Akademicka"
-    },
-    {
       "imageCategory": "da",
-      "firstText": "po mszy",
-      "secondText": "Na górę!"
+      "firstText": "9:00 - 17:00",
+      "secondText": "Turniej siatkówki"
     }
   ],
   "Niedziela": [
     {
-      "imageCategory": "jutrznia",
-      "firstText": "9:00",
-      "secondText": "NDZ-Rozdawanie śniadania na Forum Liderów"
+      "imageCategory": "da",
+      "firstText": "7:30-20:00",
+      "secondText": "Kiermasz ciast"
     },
     {
       "imageCategory": "obiad",
@@ -180,7 +140,7 @@
     {
       "imageCategory": "adoracja",
       "firstText": "19:30",
-      "secondText": "Adoracja"
+      "secondText": "Adoracja Najśw. Sakramentu"
     },
     {
       "imageCategory": "msza",
@@ -190,6 +150,11 @@
     {
       "imageCategory": "da",
       "firstText": "po mszy",
+      "secondText": "Nabożeństwo Majowe"
+    },
+    {
+      "imageCategory": "da",
+      "firstText": "po Nabożeństwie",
       "secondText": "Na górę!"
     }
   ]
