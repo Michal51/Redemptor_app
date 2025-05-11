@@ -1,1 +1,9 @@
-
+[
+  {
+    "name": "Turnieje",
+    "description": "Turnieje sportowe w Naszym Duszpasterstwie odbywają się co jakiś czas i dotyczą różnych dyscyplin: dart, piłkarzyki, tenis stołowy, szachy, siatkówka, itd. Podczas nich intergrujemy się i mamy okazję porywalizować w duchu fair play! Ostatecznie wyłaniany jest mistrz DA Redemptor w danej dyscyplinie.",
+    "location": "DA Redemptor",
+    "date": "kilka razy w semestrze",
+    "organizer": "sportowy DA Redemptor"
+  }
+]
