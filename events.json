@@ -2,112 +2,67 @@
   "Poniedzialek": [
     {
       "imageCategory": "jutrznia",
-      "firstText": "9:00",
-      "secondText": "PON-Rozdawanie śniadania na Forum Liderów"
-    },
-    {
-      "imageCategory": "obiad",
-      "firstText": "14:30",
-      "secondText": "Obiad"
-    },
-    {
-      "imageCategory": "msza",
-      "firstText": "16:00",
-      "secondText": "Msza św. Akademicka"
-    },
-    {
-      "imageCategory": "muzyczna",
-      "firstText": "18:20",
-      "secondText": "Próba Muzycznej"
+      "firstText": "7:30",
+      "secondText": "Jutrznia + śniadanko"
     },
     {
       "imageCategory": "adoracja",
-      "firstText": "19:30",
-      "secondText": "Adoracja"
+      "firstText": "19:00",
+      "secondText": "Adoracja Najśw. Sakramentu"
     },
     {
       "imageCategory": "msza",
-      "firstText": "20:00",
+      "firstText": "19:30",
       "secondText": "Msza św. Akademicka"
     },
     {
       "imageCategory": "da",
-      "firstText": "po mszy",
-      "secondText": "Na górę!"
+      "firstText": "20:20",
+      "secondText": "Siatkówka"
     }
   ],
   "Wtorek": [
     {
       "imageCategory": "jutrznia",
-      "firstText": "9:00",
-      "secondText": "WT-Rozdawanie śniadania na Forum Liderów"
-    },
-    {
-      "imageCategory": "obiad",
-      "firstText": "14:30",
-      "secondText": "Obiad"
-    },
-    {
-      "imageCategory": "msza",
-      "firstText": "16:00",
-      "secondText": "Msza św. Akademicka"
-    },
-    {
-      "imageCategory": "muzyczna",
-      "firstText": "18:20",
-      "secondText": "Próba Muzycznej"
+      "firstText": "7:30",
+      "secondText": "Jutrznia + śniadanko"
     },
     {
       "imageCategory": "adoracja",
-      "firstText": "19:30",
-      "secondText": "Adoracja"
+      "firstText": "19:00",
+      "secondText": "Adoracja Najśw. Sakramentu"
     },
     {
       "imageCategory": "msza",
-      "firstText": "20:00",
+      "firstText": "19:30",
       "secondText": "Msza św. Akademicka"
     },
     {
       "imageCategory": "da",
       "firstText": "po mszy",
-      "secondText": "Na górę!"
+      "secondText": "Nabożeństwo Majowe"
+    },
+    {
+      "imageCategory": "da",
+      "firstText": "po adoracji",
+      "secondText": "Krąg Biblijny"
     }
   ],
   "Sroda": [
     {
       "imageCategory": "jutrznia",
-      "firstText": "9:00",
-      "secondText": "ŚR-Rozdawanie śniadania na Forum Liderów"
-    },
-    {
-      "imageCategory": "obiad",
-      "firstText": "14:30",
-      "secondText": "Obiad"
-    },
-    {
-      "imageCategory": "msza",
-      "firstText": "16:00",
-      "secondText": "Msza św. Akademicka"
-    },
-    {
-      "imageCategory": "muzyczna",
-      "firstText": "18:20",
-      "secondText": "Próba Muzycznej"
+      "firstText": "7:30",
+      "secondText": "Jutrznia + śniadanko"
     },
     {
       "imageCategory": "adoracja",
-      "firstText": "19:30",
-      "secondText": "Adoracja"
+      "firstText": "19:00",
+      "secondText": "Adoracja Najśw. Sakramentu"
     },
     {
       "imageCategory": "msza",
-      "firstText": "20:00",
+      "firstText": "19:30",
       "secondText": "Msza św. Akademicka"
-    },
-    {
-      "imageCategory": "da",
-      "firstText": "po mszy",
-      "secondText": "Na górę!"
     }
   ],
   "Czwartek": [
